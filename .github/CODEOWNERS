@@ -1,0 +1,17 @@
+# Default repository owner
+* @skalyanapu-sre
+
+# Infrastructure
+/infrastructure/ @skalyanapu-sre
+
+# Databricks
+/databricks/ @skalyanapu-sre
+
+# Platform services
+/api/ @skalyanapu-sre
+/mcp/ @skalyanapu-sre
+/airflow/ @skalyanapu-sre
+/kubernetes/ @skalyanapu-sre
+
+# CI/CD
+/.github/ @skalyanapu-sre

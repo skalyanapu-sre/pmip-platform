@@ -2,33 +2,29 @@
 
 # SRINIVAS KALYANAPU
 
-### Cloud Platform Engineering • Site Reliability Engineering • DevOps • Data Engineering • AI Infrastructure
+### Cloud Platform Engineering · Site Reliability Engineering · DevOps · Data Engineering · AI Infrastructure
 
 <p>
   <a href="https://www.linkedin.com/in/skalyanapu/">
     <img src="https://img.shields.io/badge/LinkedIn-Srinivas%20Kalyanapu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/skalyanapu-sre">
-    <img src="https://img.shields.io/badge/GitHub-skalyanapu--sre-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
   <a href="mailto:skalyanapu.sre@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-skalyanapu.sre%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/skalyanapu-sre?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repositories-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="Public Repositories">
   </a>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Experience-18%2B%20Years-0969DA?style=flat-square" alt="18+ Years">
+  <img src="https://img.shields.io/badge/18%2B%20Years-Enterprise%20Engineering-0969DA?style=flat-square" alt="18+ Years Enterprise Engineering">
   <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-232F3E?style=flat-square" alt="AWS and Azure">
-  <img src="https://img.shields.io/badge/Platform-Kubernetes%20%7C%20Terraform-326CE5?style=flat-square" alt="Platform Engineering">
-  <img src="https://img.shields.io/badge/Data-Databricks%20%7C%20Spark-FF3621?style=flat-square" alt="Data Engineering">
-  <img src="https://img.shields.io/badge/AI-RAG%20%7C%20Agents%20%7C%20MCP-6F42C1?style=flat-square" alt="AI Engineering">
+  <img src="https://img.shields.io/badge/Platform-Kubernetes%20%7C%20Terraform-326CE5?style=flat-square" alt="Kubernetes and Terraform">
+  <img src="https://img.shields.io/badge/Data-Databricks%20%7C%20Spark-FF3621?style=flat-square" alt="Databricks and Spark">
+  <img src="https://img.shields.io/badge/AI-RAG%20%7C%20Agents%20%7C%20MCP-6F42C1?style=flat-square" alt="RAG Agents MCP">
 </p>
 
-<img src="https://viewcounter.live/skalyanapu-sre?label=Unique%20Visitors&unique=true&bg_color=0D1117&text_color=58A6FF&rounded=true" alt="Unique Visitors">
-
-<br>
-
-**Engineering reliable enterprise platforms across cloud, infrastructure, data and AI.**
+**Building secure, reliable and observable enterprise platforms across cloud, infrastructure, data and AI.**
 
 </div>
 
@@ -36,17 +32,15 @@
 
 ## Professional Profile
 
-I am a senior technology professional with **18+ years of enterprise IT experience** across application and data engineering, cloud infrastructure, Site Reliability Engineering, DevOps, platform engineering, distributed systems, Databricks and AI infrastructure.
+Senior technology professional with **18+ years of enterprise IT experience** spanning application and data engineering, cloud infrastructure, Site Reliability Engineering, DevOps, platform engineering, distributed systems, Databricks and AI infrastructure.
 
-My experience has evolved with enterprise technology—from traditional data and application platforms through big data, cloud, Kubernetes and SRE to modern self-service platforms and AI-enabled architectures. That breadth allows me to evaluate systems end to end: **architecture, infrastructure, automation, reliability, security, observability, data and developer experience**.
+My experience has evolved from enterprise application and data platforms through big data, cloud, Kubernetes and SRE into modern self-service platforms and AI-enabled architectures. This breadth allows me to evaluate systems end to end across **architecture, infrastructure, automation, security, reliability, observability, data and developer experience**.
 
-My focus is practical: design platforms that are **secure by default, automated, observable, scalable, recoverable and easy for engineering teams to consume**.
-
-> **Engineering philosophy:** Build reusable platform capabilities that reduce operational friction without weakening reliability, security or governance.
+I focus on production engineering rather than technology for its own sake: build reusable capabilities, automate repeatable work, design for failure, measure what matters, and make secure engineering patterns easier for teams to consume.
 
 ---
 
-## Engineering Portfolio
+## Engineering Focus
 
 <table>
   <tr>
@@ -58,8 +52,8 @@ My focus is practical: design platforms that are **secure by default, automated,
       Self-Service Infrastructure<br>
       Developer Experience<br>
       Platform APIs<br>
-      Multi-tenancy<br>
-      Governance & FinOps
+      Platform Governance<br>
+      FinOps Guardrails
     </td>
     <td width="33%" valign="top">
       <strong>SRE & RELIABILITY</strong><br><br>
@@ -108,9 +102,9 @@ My focus is practical: design platforms that are **secure by default, automated,
       DataOps
     </td>
     <td width="33%" valign="top">
-      <strong>AI INFRASTRUCTURE</strong><br><br>
+      <strong>AI & AI INFRASTRUCTURE</strong><br><br>
       Generative AI<br>
-      Retrieval-Augmented Generation<br>
+      RAG<br>
       AI Agents<br>
       MCP<br>
       LangChain / LlamaIndex<br>
@@ -123,6 +117,113 @@ My focus is practical: design platforms that are **secure by default, automated,
 
 ---
 
+## Public Engineering Repositories
+
+These repositories represent my current hands-on engineering portfolio. Each project is directly accessible from the profile.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Private Markets Intelligence Platform](https://github.com/skalyanapu-sre/pmip-platform)
+
+Production-oriented **Azure Databricks data and AI platform** reference implementation covering infrastructure provisioning, governed data engineering, analytics, AI agents, APIs, orchestration, observability, security and CI/CD.
+
+<p>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure">
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks">
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
+<img src="https://img.shields.io/badge/AKS-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="AKS">
+<img src="https://img.shields.io/badge/AI%20Agents-6F42C1?style=flat-square" alt="AI Agents">
+</p>
+
+**[View Repository →](https://github.com/skalyanapu-sre/pmip-platform)**
+
+</td>
+<td width="50%" valign="top">
+
+### [Genie Insurance Platform](https://github.com/skalyanapu-sre/genie-insurance-platform)
+
+Enterprise **data, AI and platform engineering** reference implementation built around Azure, Databricks, Terraform, governed lakehouse architecture, ML/MLOps, Kubernetes integration, observability and SRE practices.
+
+<p>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure">
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks">
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark">
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka">
+<img src="https://img.shields.io/badge/SRE-238636?style=flat-square" alt="SRE">
+</p>
+
+**[View Repository →](https://github.com/skalyanapu-sre/genie-insurance-platform)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### [Industrial Edge AI Platform](https://github.com/skalyanapu-sre/industrial-edge-ai-platform)
+
+Python-based engineering project focused on an **industrial edge AI platform** and supporting application, simulation, test and delivery components.
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Edge%20AI-6F42C1?style=flat-square" alt="Edge AI">
+<img src="https://img.shields.io/badge/Platform%20Engineering-0969DA?style=flat-square" alt="Platform Engineering">
+</p>
+
+**[View Repository →](https://github.com/skalyanapu-sre/industrial-edge-ai-platform)**
+
+</td>
+<td width="50%" valign="top">
+
+### [Databricks Genie](https://github.com/skalyanapu-sre/databricks-genie)
+
+Repository dedicated to **Databricks Genie** exploration and engineering work.
+
+<p>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks">
+<img src="https://img.shields.io/badge/Genie-AI%20%2F%20BI-6F42C1?style=flat-square" alt="Databricks Genie">
+</p>
+
+**[View Repository →](https://github.com/skalyanapu-sre/databricks-genie)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### [SrinivasKalyanapu](https://github.com/skalyanapu-sre/SrinivasKalyanapu)
+
+Professional engineering portfolio repository containing my GitHub profile content and technical career overview.
+
+<p>
+<img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Portfolio">
+<img src="https://img.shields.io/badge/Profile-Engineering%20Portfolio-0969DA?style=flat-square" alt="Engineering Portfolio">
+</p>
+
+**[View Repository →](https://github.com/skalyanapu-sre/SrinivasKalyanapu)**
+
+</td>
+<td width="50%" valign="top">
+
+### Repository Portfolio
+
+My public work is organized around practical platform engineering scenarios: cloud foundations, Databricks, Kubernetes, SRE, observability, AI workloads and production automation.
+
+<p>
+<a href="https://github.com/skalyanapu-sre?tab=repositories">
+<img src="https://img.shields.io/badge/View-All%20Public%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories">
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
 ## Platform Architecture Perspective
 
 ```text
@@ -131,485 +232,277 @@ My focus is practical: design platforms that are **secure by default, automated,
                                 ▼
                   INTERNAL DEVELOPER PLATFORM
                                 │
-             ┌──────────────────┼──────────────────┐
-             │                  │                  │
-      Golden Paths        Self-Service        Governance
-             │                  │                  │
-             └──────────────────┼──────────────────┘
+               ┌────────────────┼────────────────┐
+               │                │                │
+         Golden Paths      Self-Service      Governance
+               │                │                │
+               └────────────────┼────────────────┘
                                 │
-                     PLATFORM AUTOMATION
+                    PLATFORM AUTOMATION
                                 │
-          ┌─────────────────────┼─────────────────────┐
-          │                     │                     │
-      Terraform              GitOps                 CI/CD
-          │                     │                     │
-          └─────────────────────┼─────────────────────┘
+              ┌─────────────────┼─────────────────┐
+              │                 │                 │
+          Terraform           GitOps            CI/CD
+              │                 │                 │
+              └─────────────────┼─────────────────┘
                                 │
                     CLOUD / KUBERNETES
                                 │
-          ┌─────────────────────┼─────────────────────┐
-          │                     │                     │
-     Applications          Data Platforms        AI Workloads
-          │                     │                     │
-          └─────────────────────┼─────────────────────┘
+              ┌─────────────────┼─────────────────┐
+              │                 │                 │
+        Applications      Data Platforms     AI Workloads
+              │                 │                 │
+              └─────────────────┼─────────────────┘
                                 │
-           SECURITY • OBSERVABILITY • RELIABILITY
+              SECURITY · OBSERVABILITY · RELIABILITY
 ```
 
-A platform is successful when developers can consume standardized capabilities without needing to understand every infrastructure implementation detail, while platform teams retain the controls required for security, reliability, compliance and cost management.
+The objective is to provide standardized capabilities without forcing every application team to rebuild infrastructure, security, deployment and operational patterns independently.
 
 ---
 
-## Observability & Reliability Engineering
+## Observability & Reliability
 
-Observability is a core part of my production engineering background. I have worked with telemetry across Kubernetes, cloud infrastructure, distributed applications, data platforms and GPU workloads.
+Observability is a core production capability across infrastructure, Kubernetes, distributed applications, data platforms and AI workloads.
 
 <table>
   <tr>
-    <th align="left" width="27%">Capability</th>
-    <th align="left" width="36%">Tools</th>
-    <th align="left" width="37%">Engineering Use</th>
+    <th align="left" width="25%">Capability</th>
+    <th align="left" width="35%">Tools</th>
+    <th align="left" width="40%">Engineering Use</th>
   </tr>
   <tr>
     <td valign="top"><strong>Metrics & Dashboards</strong></td>
     <td valign="top">Prometheus, Grafana</td>
-    <td valign="top">Service health, infrastructure telemetry, SLO indicators, capacity and performance visibility</td>
+    <td valign="top">Service health, infrastructure telemetry, capacity, performance and SLO indicators</td>
   </tr>
   <tr>
     <td valign="top"><strong>Alerting</strong></td>
     <td valign="top">Alertmanager</td>
-    <td valign="top">Actionable alert routing, thresholding and operational response</td>
+    <td valign="top">Actionable alerting, routing and operational response</td>
   </tr>
   <tr>
     <td valign="top"><strong>Telemetry & Tracing</strong></td>
     <td valign="top">OpenTelemetry</td>
-    <td valign="top">Standardized application and platform telemetry across distributed services</td>
+    <td valign="top">Standardized distributed application and platform telemetry</td>
   </tr>
   <tr>
     <td valign="top"><strong>Logging & Search</strong></td>
     <td valign="top">Splunk, Kibana</td>
-    <td valign="top">Centralized log analysis, troubleshooting, event correlation and operational investigation</td>
+    <td valign="top">Centralized log analysis, troubleshooting and event correlation</td>
   </tr>
   <tr>
     <td valign="top"><strong>Cloud Observability</strong></td>
     <td valign="top">Amazon CloudWatch, Azure Monitor, Azure Log Analytics</td>
-    <td valign="top">Cloud infrastructure monitoring, platform diagnostics, logging and operational visibility</td>
+    <td valign="top">Cloud infrastructure monitoring, diagnostics and platform visibility</td>
   </tr>
   <tr>
-    <td valign="top"><strong>Platform / APM</strong></td>
+    <td valign="top"><strong>Application / Platform Monitoring</strong></td>
     <td valign="top">Datadog</td>
     <td valign="top">Application, infrastructure and service-level operational visibility</td>
   </tr>
   <tr>
     <td valign="top"><strong>GPU Telemetry</strong></td>
     <td valign="top">NVIDIA DCGM</td>
-    <td valign="top">GPU health, utilization, capacity and Kubernetes AI workload monitoring</td>
+    <td valign="top">GPU health, utilization, capacity and AI workload monitoring</td>
   </tr>
 </table>
 
-### Reliability Practices
+**Reliability Practices**
 
-`SLI` `SLO` `SLA` `Error Budgets` `Incident Response` `RCA` `Runbooks` `On-Call` `Capacity Planning` `Performance Monitoring` `MTTD` `MTTR` `Automated Recovery`
-
-```text
-METRICS + LOGS + TRACES + ALERTS
-               │
-               ▼
-         SERVICE HEALTH
-               │
-      ┌────────┼────────┐
-      │        │        │
- Reliability  RCA   Performance
-      │        │        │
-      └────────┼────────┘
-               ▼
-      OPERATIONAL ACTION
-```
-
-The objective is not simply to collect telemetry. The objective is to quickly determine **what happened, why it happened, what is affected, how to recover and how to prevent recurrence**.
-
----
-
-## Platform Engineering
-
-I approach internal platforms as **products rather than infrastructure projects**.
-
-The platform should provide reusable, governed capabilities such as:
-
-| Platform Capability | Purpose |
-|---|---|
-| **Golden Paths** | Standardize proven application and infrastructure patterns |
-| **Self-Service Provisioning** | Reduce manual infrastructure tickets and handoffs |
-| **Terraform Modules** | Reuse consistent cloud architecture and controls |
-| **GitOps** | Maintain declarative, version-controlled environment state |
-| **CI/CD Standards** | Standardize build, validation, promotion and deployment |
-| **Identity & Secrets** | Embed secure access patterns into the platform |
-| **Observability by Default** | Provision monitoring, logging and alerting with workloads |
-| **Policy & Governance** | Apply security, compliance and cost guardrails consistently |
-| **Production Readiness** | Ensure reliability and operational requirements are addressed before release |
-
-```text
-Developer Request
-       │
-       ▼
-Golden Path / Template
-       │
-       ▼
-Git + CI/CD + Terraform
-       │
-       ▼
-Cloud / Kubernetes
-       │
-       ├── Identity
-       ├── Secrets
-       ├── Security Policy
-       ├── Observability
-       ├── Cost Controls
-       └── Reliability Standards
-               │
-               ▼
-        Production Workload
-```
-
----
-
-## Cloud & Kubernetes Engineering
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm">
-</p>
-
-My cloud and Kubernetes experience includes:
-
-- AWS and Microsoft Azure
-- Amazon EKS and Azure AKS
-- Kubernetes cluster and workload architecture
-- CPU and NVIDIA GPU node pools
-- Namespaces, RBAC and workload isolation
-- Ingress, persistent storage and autoscaling
-- Helm-based packaging and deployment
-- GitOps with Argo CD
-- Infrastructure automation with Terraform
-- Production monitoring and reliability
-- Identity, networking, secrets and governance
-
-I treat Kubernetes as a **platform control plane** that should integrate infrastructure, security, observability, deployment standards and workload lifecycle management.
-
----
-
-## Infrastructure as Code, CI/CD & GitOps
-
-<p>
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps">
-  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD">
-</p>
-
-| Area | Engineering Focus |
-|---|---|
-| **Terraform** | Reusable modules, remote state, environment separation, repeatable provisioning |
-| **GitHub / Git** | Pull requests, repository governance, branch controls, versioned change management |
-| **CI/CD** | Automated validation, build, deployment, approvals and environment promotion |
-| **GitOps** | Declarative desired state, Argo CD, drift detection and reconciliation |
-| **Release Engineering** | Controlled rollout, production readiness and rollback planning |
-
----
-
-## Data Engineering & Databricks
-
-<p>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks">
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark">
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka">
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow">
-</p>
-
-My data engineering background covers enterprise ETL/ELT, distributed processing, lakehouse architecture, batch and streaming pipelines, data quality, governance and production operations.
-
-| Capability | Technologies / Patterns |
-|---|---|
-| **Lakehouse** | Azure Databricks, Delta Lake, Medallion Architecture |
-| **Processing** | Apache Spark, PySpark, Spark SQL |
-| **Governance** | Unity Catalog, access controls, lineage |
-| **Streaming** | Apache Kafka |
-| **Orchestration** | Apache Airflow |
-| **Transformation** | dbt |
-| **Big Data / ETL** | Hadoop, Hive, Informatica |
-| **Programming** | Python, SQL |
-| **DataOps** | Git, CI/CD, infrastructure automation, monitoring and controlled reprocessing |
-
-```text
-Enterprise Sources / APIs
-           │
-           ▼
-    Cloud Data Storage
-           │
-           ▼
-        BRONZE
-           │
-           ▼
-        SILVER
-           │
-           ▼
-         GOLD
-           │
-      ┌────┴────┐
-      ▼         ▼
- Analytics   AI / GenAI
-                │
-                ▼
-         Agents / APIs / MCP
-```
-
----
-
-## AI, GenAI & AI Infrastructure
-
-My AI work focuses on the engineering required to move LLM-enabled applications from experimentation into controlled enterprise environments.
-
-<table>
-  <tr>
-    <th align="left" width="50%">AI Application Architecture</th>
-    <th align="left" width="50%">Production AI Engineering</th>
-  </tr>
-  <tr>
-    <td valign="top">
-      Generative AI<br>
-      Retrieval-Augmented Generation (RAG)<br>
-      AI Agents<br>
-      Multi-Agent Orchestration<br>
-      MCP Servers<br>
-      Tool Calling<br>
-      Human-in-the-Loop<br>
-      Structured Outputs
-    </td>
-    <td valign="top">
-      LLMOps<br>
-      RAG Observability<br>
-      Agent Tracing<br>
-      Prompt / Context Engineering<br>
-      Token & Cost Monitoring<br>
-      Model / API Integration<br>
-      Evaluation Patterns<br>
-      AI Platform Governance
-    </td>
-  </tr>
-</table>
-
-### Frameworks & Platform Technologies
-
-`LangChain` `LlamaIndex` `AutoGen` `MCP` `Langfuse` `Python` `REST APIs` `Databricks`
-
-### GPU / AI Infrastructure
-
-`NVIDIA GPU` `CUDA` `GPU Operator` `DCGM` `Kubernetes GPU Scheduling` `GPU Telemetry` `Capacity Planning`
-
-```text
-AI / ML Workload
-       │
-       ▼
-    Kubernetes
-       │
-       ▼
-  GPU Scheduling
-       │
-       ▼
-NVIDIA GPU Operator
-       │
-       ▼
-     GPU Nodes
-       │
-       ├── CUDA / Drivers
-       ├── DCGM Telemetry
-       ├── Health Monitoring
-       └── Capacity / Utilization
-```
+`SLI` `SLO` `SLA` `Error Budgets` `Incident Response` `RCA` `Runbooks` `On-Call` `Capacity Planning` `Performance Engineering` `MTTD` `MTTR` `Production Readiness`
 
 ---
 
 ## Technology Landscape
 
-| Domain | Technologies & Practices |
-|---|---|
-| **Cloud** | AWS, Microsoft Azure, IAM, networking, storage, cloud architecture |
-| **Platform Engineering** | Internal Developer Platforms, self-service, golden paths, developer experience, platform governance |
-| **Containers** | Kubernetes, EKS, AKS, Docker, Helm, Argo CD |
-| **Infrastructure as Code** | Terraform, HCL, reusable modules, remote state |
-| **DevOps** | GitHub Actions, Jenkins, Azure DevOps, Git, CI/CD, GitOps |
-| **Observability** | Prometheus, Grafana, Alertmanager, OpenTelemetry, Splunk, Datadog, CloudWatch, Azure Monitor, Log Analytics, Kibana |
-| **Reliability** | SLI, SLO, SLA, error budgets, incident response, RCA, MTTD, MTTR, capacity planning |
-| **Data** | Databricks, Spark, PySpark, Spark SQL, Delta Lake, Unity Catalog, Kafka, Airflow, dbt, Hadoop, Hive, Informatica |
-| **AI / GenAI** | LLMs, RAG, AI agents, LangChain, LlamaIndex, AutoGen, MCP, tool calling, HITL |
-| **AI Infrastructure** | NVIDIA GPU, CUDA, GPU Operator, DCGM, GPU scheduling and telemetry |
-| **Programming** | Python, SQL, Bash / Shell, YAML, JSON, HCL |
-| **Security & Governance** | IAM, RBAC, least privilege, secrets, policy controls, auditability, production readiness, FinOps |
+<table>
+  <tr>
+    <th align="left" width="25%">Domain</th>
+    <th align="left" width="75%">Technologies & Practices</th>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Cloud</strong></td>
+    <td valign="top">AWS, Microsoft Azure, IAM, networking, storage, cloud architecture</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Platform Engineering</strong></td>
+    <td valign="top">Internal Developer Platforms, platform-as-a-product, self-service, golden paths, developer experience, governance, FinOps</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Kubernetes</strong></td>
+    <td valign="top">Kubernetes, Amazon EKS, Azure AKS, Docker, Helm, Argo CD, GitOps, workload isolation, autoscaling</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Infrastructure as Code</strong></td>
+    <td valign="top">Terraform, HCL, reusable modules, remote state, environment governance</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>DevOps</strong></td>
+    <td valign="top">GitHub Actions, Jenkins, Azure DevOps, Git, CI/CD, release engineering</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Observability</strong></td>
+    <td valign="top">Prometheus, Grafana, Alertmanager, OpenTelemetry, Splunk, Datadog, CloudWatch, Azure Monitor, Log Analytics, Kibana</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Data Engineering</strong></td>
+    <td valign="top">Databricks, Apache Spark, PySpark, Spark SQL, Delta Lake, Unity Catalog, Kafka, Airflow, dbt, Hadoop, Hive, Informatica</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>AI / GenAI</strong></td>
+    <td valign="top">LLMs, RAG, AI agents, LangChain, LlamaIndex, AutoGen, MCP, tool calling, human-in-the-loop, structured outputs</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>AI Infrastructure</strong></td>
+    <td valign="top">NVIDIA GPU, CUDA, GPU Operator, DCGM, Kubernetes GPU scheduling, GPU telemetry and capacity planning</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Programming</strong></td>
+    <td valign="top">Python, SQL, Bash / Shell, YAML, JSON, HCL</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Security & Governance</strong></td>
+    <td valign="top">IAM, RBAC, least privilege, secrets management, policy controls, auditability, production readiness</td>
+  </tr>
+</table>
 
 ---
 
 ## Enterprise Experience
 
-| Organization / Client | Period | Primary Engineering Focus |
-|---|---|---|
-| **Thrivent** | Apr 2025 – Present | Cloud, data platform reliability, Databricks, DataOps, production engineering |
-| **Adobe** | Feb 2021 – Mar 2025 | Cloud / Infrastructure Platform SRE, AKS, Kubernetes, GPU infrastructure, automation and observability |
-| **TCF Bank** | Feb 2020 – Feb 2021 | Financial services technology, cloud/platform engineering, DevOps and reliability |
-| **Hill-Rom** | Mar 2017 – Jan 2020 | Healthcare technology, enterprise data and infrastructure platforms |
-| **Johnson & Johnson** | Mar 2013 – Feb 2017 | Enterprise data, pharmaceutical / healthcare technology and platform operations |
-| **Cablevision** | Oct 2011 – Mar 2013 | Enterprise technology, data and production systems |
-| **Morgan Stanley** | Oct 2010 – Sep 2011 | Financial services technology and enterprise systems |
-| **Thomson Reuters** | Earlier Career | Enterprise data, BI / ETL and technology platforms |
-
-### Industry Experience
-
-`Financial Services` `Banking` `Insurance` `Healthcare` `Pharmaceutical` `Digital Experience` `Enterprise Data` `Cloud Infrastructure` `AI Platforms`
-
----
-
-## Engineering Evolution
-
-```text
-Application Engineering
-        │
-        ▼
-     ETL / BI
-        │
-        ▼
-     Big Data
-        │
-        ▼
-Distributed Data Platforms
-        │
-        ▼
- Cloud Engineering
-        │
-        ▼
- DevOps & Automation
-        │
-        ▼
-Site Reliability Engineering
-        │
-        ▼
- Platform Engineering
-        │
-        ▼
- Cloud Data Platforms
-        │
-        ▼
- AI / GenAI Platforms
-```
-
-The technologies have changed significantly over my career, but the engineering fundamentals remain consistent: **solve the right problem, automate repeatable work, design for failure, protect the platform, measure what matters and keep systems maintainable**.
-
----
-
-## Current Engineering Focus
-
 <table>
   <tr>
-    <td width="25%" valign="top">
-      <strong>Internal Developer Platforms</strong><br><br>
-      Self-service infrastructure, platform APIs, Terraform foundations, golden paths and governance.
-    </td>
-    <td width="25%" valign="top">
-      <strong>Databricks Platforms</strong><br><br>
-      Lakehouse architecture, governance, DataOps, reliability and AI-ready data platforms.
-    </td>
-    <td width="25%" valign="top">
-      <strong>Agentic AI</strong><br><br>
-      RAG, AI agents, MCP, tool integration, evaluation and production AI architecture.
-    </td>
-    <td width="25%" valign="top">
-      <strong>AI Infrastructure</strong><br><br>
-      Kubernetes GPU platforms, NVIDIA telemetry, observability, capacity and reliability.
-    </td>
+    <th align="left" width="22%">Organization / Client</th>
+    <th align="center" width="21%">Period</th>
+    <th align="left" width="57%">Primary Engineering Focus</th>
+  </tr>
+  <tr>
+    <td valign="middle"><strong>Thrivent</strong></td>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/Apr%202025%20%E2%80%93%20Present-0969DA?style=flat-square" alt="Apr 2025 – Present"></td>
+    <td valign="middle">Cloud, data platform reliability, Databricks, DataOps and production engineering</td>
+  </tr>
+  <tr>
+    <td valign="middle"><strong>Adobe</strong></td>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/Feb%202021%20%E2%80%93%20Mar%202025-0969DA?style=flat-square" alt="Feb 2021 – Mar 2025"></td>
+    <td valign="middle">Cloud / infrastructure platform SRE, Kubernetes, GPU infrastructure, automation and observability</td>
+  </tr>
+  <tr>
+    <td valign="middle"><strong>TCF Bank</strong></td>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/Feb%202020%20%E2%80%93%20Feb%202021-0969DA?style=flat-square" alt="Feb 2020 – Feb 2021"></td>
+    <td valign="middle">Financial services technology, cloud / platform engineering, DevOps and reliability</td>
+  </tr>
+  <tr>
+    <td valign="middle"><strong>Hill-Rom</strong></td>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/Mar%202017%20%E2%80%93%20Jan%202020-0969DA?style=flat-square" alt="Mar 2017 – Jan 2020"></td>
+    <td valign="middle">Healthcare technology, enterprise data and infrastructure platforms</td>
+  </tr>
+  <tr>
+    <td valign="middle"><strong>Johnson &amp; Johnson</strong></td>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/Mar%202013%20%E2%80%93%20Feb%202017-0969DA?style=flat-square" alt="Mar 2013 – Feb 2017"></td>
+    <td valign="middle">Enterprise data, pharmaceutical / healthcare technology and platform operations</td>
+  </tr>
+  <tr>
+    <td valign="middle"><strong>Cablevision</strong></td>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/Oct%202011%20%E2%80%93%20Mar%202013-0969DA?style=flat-square" alt="Oct 2011 – Mar 2013"></td>
+    <td valign="middle">Enterprise technology, data and production systems</td>
+  </tr>
+  <tr>
+    <td valign="middle"><strong>Morgan Stanley</strong></td>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/Oct%202010%20%E2%80%93%20Sep%202011-0969DA?style=flat-square" alt="Oct 2010 – Sep 2011"></td>
+    <td valign="middle">Financial services technology and enterprise systems</td>
+  </tr>
+  <tr>
+    <td valign="middle"><strong>Thomson Reuters</strong></td>
+    <td align="center" valign="middle"><img src="https://img.shields.io/badge/Earlier%20Career-57606A?style=flat-square" alt="Earlier Career"></td>
+    <td valign="middle">Enterprise data, BI / ETL and technology platforms</td>
   </tr>
 </table>
 
+**Industry exposure:** Financial Services · Banking · Insurance · Healthcare · Pharmaceutical · Digital Experience · Enterprise Data · Cloud Infrastructure · AI Platforms
+
 ---
 
-## How I Approach Engineering
+## Engineering Principles
 
 <table>
-  <tr>
-    <td align="center" width="16%"><strong>01</strong><br>Business Need</td>
-    <td align="center" width="4%">→</td>
-    <td align="center" width="16%"><strong>02</strong><br>Architecture</td>
-    <td align="center" width="4%">→</td>
-    <td align="center" width="16%"><strong>03</strong><br>Automation</td>
-    <td align="center" width="4%">→</td>
-    <td align="center" width="16%"><strong>04</strong><br>Observability</td>
-    <td align="center" width="4%">→</td>
-    <td align="center" width="16%"><strong>05</strong><br>Production</td>
-  </tr>
+<tr>
+<td width="25%" valign="top">
+
+**AUTOMATION FIRST**
+
+Convert repetitive infrastructure and operational work into repeatable, version-controlled workflows.
+
+</td>
+<td width="25%" valign="top">
+
+**OBSERVABLE BY DESIGN**
+
+Build telemetry into the platform so health, behavior and failure modes are visible before incidents occur.
+
+</td>
+<td width="25%" valign="top">
+
+**SECURE BY DEFAULT**
+
+Embed identity, least privilege, secrets and policy controls into reusable platform capabilities.
+
+</td>
+<td width="25%" valign="top">
+
+**PLATFORM AS PRODUCT**
+
+Optimize for adoption, usability, documentation, reliability and continuous improvement—not only provisioning.
+
+</td>
+</tr>
 </table>
-
-At every stage I consider **security, reliability, scalability, governance, operational ownership and developer experience**.
-
-A solution is not complete merely because it deploys successfully. It should also be supportable, observable, recoverable, secure and understandable by the engineers who operate it.
 
 ---
 
 ## Technical Leadership
 
-My contribution extends beyond implementation into:
+My contribution extends beyond implementation into **architecture, design reviews, engineering standards, ADRs, platform strategy, mentoring, production troubleshooting, RCA, technology evaluation, proof-of-concept development and technical documentation**.
 
-`Architecture` `Design Reviews` `Engineering Standards` `ADRs` `Platform Strategy` `Mentoring` `Production Troubleshooting` `RCA` `Technology Evaluation` `POCs` `Documentation` `Knowledge Sharing`
-
-I value engineering environments where platform, SRE, DevOps, security, data and AI teams collaborate around shared standards instead of building isolated technology silos.
+I value engineering environments where platform, SRE, DevOps, security, data and AI teams work from shared operational standards rather than building isolated technology silos.
 
 ---
 
-## Visitor Analytics
+## Profile Activity
 
 <div align="center">
 
-<img src="https://viewcounter.live/skalyanapu-sre?label=Unique%20Visitors&unique=true&bg_color=0D1117&text_color=58A6FF&rounded=true" alt="Unique Visitors">
-
-<br><br>
-
-<sub>
-The counter above tracks unique visits from the point it is embedded.  
-For repository-owner analytics, GitHub Insights → Traffic is the authoritative source for GitHub's rolling 14-day unique visitor metric.
-</sub>
+<img src="https://komarev.com/ghpvc/?username=skalyanapu-sre&label=Profile%20Views&color=0A66C2&style=flat-square" alt="Profile Views">
 
 </div>
 
+> **Traffic accuracy:** the public badge above is a profile-view counter, not GitHub's authoritative unique-user metric. GitHub repository owners can see GitHub's rolling unique visitors in **Insights → Traffic**. Publishing that exact private traffic metric into a README requires authenticated automation.
+
 ---
 
-## Connect
+## Contact
 
 <div align="center">
 
-### Srinivas Kalyanapu
+**Srinivas Kalyanapu**
 
-**Cloud Platform Engineering • SRE • DevOps • Data Engineering • AI Infrastructure**
+Cloud Platform Engineering · SRE · DevOps · Data Engineering · AI Infrastructure
 
 <br>
 
+<a href="mailto:skalyanapu.sre@gmail.com"><strong>skalyanapu.sre@gmail.com</strong></a>
+
+<br><br>
+
 <a href="https://www.linkedin.com/in/skalyanapu/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://github.com/skalyanapu-sre">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="mailto:skalyanapu.sre@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<a href="https://github.com/skalyanapu-sre?tab=repositories">
+<img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories">
 </a>
 
 <br><br>
 
-> **Build platforms that make the right engineering path secure, automated, observable, reliable and easy to consume.**
+**Build platforms that make the right engineering path secure, automated, observable, reliable and easy to consume.**
 
-</div>
-
----
-
-<div align="center">
-  <sub>© 2026 Srinivas Kalyanapu • Platform • SRE • Cloud • Data • AI Infrastructure</sub>
 </div>

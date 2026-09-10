@@ -476,10 +476,6 @@ I value engineering environments where platform, SRE, DevOps, security, data and
 
 </div>
 
-> **Traffic accuracy:** the public badge above is a profile-view counter, not GitHub's authoritative unique-user metric. GitHub repository owners can see GitHub's rolling unique visitors in **Insights → Traffic**. Publishing that exact private traffic metric into a README requires authenticated automation.
-
----
-
 ## Contact
 
 <div align="center">

@@ -1,5 +1,4 @@
 # ADR 0001: Git Governance and Protected Main Branch
-
 Status: Accepted
 
 ## Context

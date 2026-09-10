@@ -1,13 +1,8 @@
 ## Summary
-
 Describe what this pull request changes.
-
 ## Why
-
 Explain the business, platform, reliability, security, or engineering reason for the change.
-
 ## Change Type
-
 - [ ] Infrastructure
 - [ ] Databricks
 - [ ] Data pipeline

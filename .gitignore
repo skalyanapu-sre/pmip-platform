@@ -1,3 +1,4 @@
+```gitignore
 # ============================================================
 # macOS
 # ============================================================
@@ -47,24 +48,35 @@ build/
 # ============================================================
 # Terraform
 # ============================================================
+
+# Local Terraform working directory
 **/.terraform/*
+
+# Terraform state files
 *.tfstate
 *.tfstate.*
+
+# Terraform saved plan files
+tfplan
 *.tfplan
-crash.log
-crash.*.log
+
+# Local variable files - may contain secrets
+*.tfvars
+*.tfvars.json
+
+# Allow safe variable examples
+!*.tfvars.example
+!*.tfvars.json.example
+
+# Local override files
 override.tf
 override.tf.json
 *_override.tf
 *_override.tf.json
 
-# Variable files can contain secrets
-*.tfvars
-*.tfvars.json
-
-# Allow safe examples
-!*.tfvars.example
-!*.tfvars.json.example
+# Terraform CLI configuration
+.terraformrc
+terraform.rc
 
 # IMPORTANT:
 # .terraform.lock.hcl MUST be committed.
@@ -98,8 +110,9 @@ temp/
 .cache/
 
 # ============================================================
-# Local credentials/configuration
+# Local Credentials / Configuration
 # ============================================================
 credentials.json
 secrets.json
 local.settings.json
+```

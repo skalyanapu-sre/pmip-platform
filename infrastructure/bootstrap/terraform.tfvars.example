@@ -1,0 +1,22 @@
+# Azure subscription ID should normally be supplied through:
+#
+# export TF_VAR_subscription_id="$(az account show --query id -o tsv)"
+#
+# Do not put real credentials in this file.
+
+subscription_id = "00000000-0000-0000-0000-000000000000"
+
+project        = "pmip"
+environment    = "shared"
+
+location       = "eastus2"
+location_short = "eus2"
+
+storage_replication_type = "LRS"
+
+blob_soft_delete_days      = 30
+container_soft_delete_days = 30
+
+additional_tags = {
+  purpose = "terraform-bootstrap"
+}
